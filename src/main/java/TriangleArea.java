@@ -12,4 +12,5 @@ public class TriangleArea {
         int area = (a * b) / 2;
         System.out.println(" Плошадь треугольника равна " + area);
     }
+
 }
