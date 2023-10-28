@@ -39,6 +39,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2XP8jfCxltczBFWRP4kdUdCWSJQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -91,6 +94,7 @@
       <workItem from="1698519493897" duration="37000" />
       <workItem from="1698519537533" duration="3650000" />
       <workItem from="1698530946087" duration="1169000" />
+      <workItem from="1698533267859" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1698530681582</created>
