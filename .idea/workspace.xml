@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b0416295-f4ef-4480-9eb2-5f5eb00ea26a" name="Changes" comment="Initial commit&#10;&#10;additional task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TriangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TriangleArea.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +96,8 @@
       <workItem from="1698519537533" duration="3650000" />
       <workItem from="1698530946087" duration="1169000" />
       <workItem from="1698533267859" duration="47000" />
+      <workItem from="1698533332442" duration="95000" />
+      <workItem from="1698533432556" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1698530681582</created>
@@ -124,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698531304913</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit&#10;&#10;additional task">
+      <created>1698533352851</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698533352851</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit&#10;&#10;additional task">
+      <created>1698533412788</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698533412788</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
