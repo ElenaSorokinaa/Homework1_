@@ -1,4 +1,4 @@
-package org.example;
+package Homework1;
 
 /**
  * Homework1.Hello world!
